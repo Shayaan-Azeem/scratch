@@ -72,7 +72,7 @@ export function AboutSettingsSection() {
       <section className="pb-2">
         <h2 className="text-xl font-medium mb-1">About Think</h2>
         <p className="text-sm text-text-muted mb-4">
-          Think is a minimalist markdown thinkpad for capturing quick
+          Think is a minimalist markdown notepad for capturing quick
           thoughts, todos, and ideas. We're offline-first, keyboard-optimized,
           AI-compatible, and open source with no cloud, no accounts, and no
           subscriptions. Learn more on{" "}
